@@ -1,0 +1,8 @@
+.page {
+  min-block-size: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--page-background-color, #4a4a4a);
+  color: var(--main-text-color, #fff);
+}

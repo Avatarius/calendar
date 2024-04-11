@@ -1,0 +1,11 @@
+@import url('./__item/calendar__item.css');
+@import url('./__day-name/calendar__day-name.css');
+@import url('./__day/calendar__day.css');
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  gap: 12px;
+
+}

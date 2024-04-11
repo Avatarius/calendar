@@ -1,0 +1,9 @@
+.calendar__item {
+  border: 1px solid #000;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+
+}
